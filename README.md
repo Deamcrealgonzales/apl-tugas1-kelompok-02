@@ -13,7 +13,8 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
-| 1 | | | @ | |
-| 2 | | | @ | |
-| 3 | | | @ | |
-| 4 | | | @ | |
+| 1 |13020240168 |Dea Mcreal Gonzales | @Deamcrealgonzales | |
+| 2 |13020240191 |Siti Nur Alfiyyah | @SitiNurAlfiyyah | |
+| 3 |13020240192 |Nabila Zahrani Azalea Arief | @ | |
+| 4 |13020240197 |A Aqila Nurul Khalida | @ | |
+| 5 |13020240198 |Nur Annisa Az Zahra Diponegoro | @NurAnnisaAzZahraDiponegoro | |
