@@ -16,7 +16,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | 1 |13020240168 |Dea Mcreal Gonzales | @Deamcrealgonzales | |
 | 2 |13020240191 |Siti Nur Alfiyyah | @SitiNurAlfiyyah | |
 | 3 |13020240192 |Nabila Zahrani Azalea Arief | @NabilaZahraniAzaleaArief | |
-| 4 |13020240197 |A Aqila Nurul Khalida | @ | |
+| 4 |13020240197 |A Aqila Nurul Khalida | @aaqilanurulkhalida | |
 | 5 |13020240198 |Nur Annisa Az Zahra Diponegoro | @NurAnnisaAzZahraDiponegoro | |
 
 ## Peta berkas dan penanggung jawab
