@@ -49,7 +49,3 @@ quadrantChart
 
 *Catatan: penempatan power/interest bersifat rekomendasi berdasarkan pengalaman memakai layanan, informasi publik UMI, dan wawancara singkat (R1, R2, dst.).*
 
-## Pustaka
-
-- A. L. Mendelow, "Environmental scanning: the impact of the stakeholder concept," *Proc. 2nd Int. Conf. on Information Systems*, 1981.
-- R. E. Freeman, *Strategic Management: A Stakeholder Approach*. Pitman, 1984.
