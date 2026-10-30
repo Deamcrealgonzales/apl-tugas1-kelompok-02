@@ -1,6 +1,6 @@
 # A2. Stakeholder dan Peta Power/Interest
 
-Penanggung jawab: [Nur Annisa Az Zahra Diponegoro]
+Penanggung jawab: Nur Annisa Az Zahra Diponegoro
 
 Stakeholder adalah pihak-pihak yang terlibat atau memiliki kepentingan terhadap layanan kelas di SPADA UMI-Kalam. Layanan ini digunakan untuk pendaftaran kelas, unggah materi, akses materi, dan pengumuman. Pengaruh (*power*) dinilai dari kemampuan memengaruhi keputusan, bukan dari jumlah pengguna. Kepentingan (*interest*) dinilai dari seberapa besar pihak tersebut terdampak oleh layanan.
 
@@ -18,25 +18,7 @@ Stakeholder adalah pihak-pihak yang terlibat atau memiliki kepentingan terhadap 
 
 ## Peta Power/Interest (Mendelow)
 
-```mermaid
-quadrantChart
-    title Peta Power/Interest Stakeholder Layanan Kelas SPADA UMI-Kalam
-    x-axis Power rendah --> Power tinggi
-    y-axis Interest rendah --> Interest tinggi
-    quadrant-1 Manage closely
-    quadrant-2 Keep informed
-    quadrant-3 Monitor
-    quadrant-4 Keep satisfied
-    Mahasiswa: [0.25, 0.90]
-    Dosen pengampu: [0.70, 0.88]
-    Pengembang dan admin PDTI: [0.88, 0.74]
-    Admin prodi dan helpdesk: [0.38, 0.66]
-    Pimpinan univ dan fakultas: [0.86, 0.38]
-    Regulator dan akreditasi: [0.66, 0.24]
-    Penyedia infrastruktur: [0.24, 0.24]
-```
-
-*Gambar A2.1. Peta power/interest stakeholder layanan kelas SPADA UMI-Kalam.*
+![Peta power/interest stakeholder layanan kelas SPADA UMI-Kalam](A2-stakeholder-diagram.drawio.png)
 
 ## Strategi Tiap Kuadran
 
@@ -46,5 +28,3 @@ quadrantChart
 | Keep satisfied | Pimpinan; regulator dan akreditasi | Puaskan tanpa membebani detail teknis | Laporan ringkas tiap semester (ketersediaan, jumlah kelas aktif, insiden); data pembelajaran siap diaudit |
 | Keep informed | Mahasiswa; admin prodi dan helpdesk | Beri informasi dan kumpulkan umpan balik | Umumkan jadwal pemeliharaan lebih dulu, beri panduan singkat, sediakan formulir keluhan atau survei |
 | Monitor | Penyedia infrastruktur pihak ketiga | Pantau seperlunya | Cek kapasitas dan kontrak secara berkala |
-
-
