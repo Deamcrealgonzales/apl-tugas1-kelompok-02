@@ -13,11 +13,11 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
-| 1 |13020240168 |Dea Mcreal Gonzales | @Deamcrealgonzales | |
-| 2 |13020240191 |Siti Nur Alfiyyah | @SitiNurAlfiyyah | |
-| 3 |13020240192 |Nabila Zahrani Azalea Arief | @NabilaZahraniAzaleaArief | |
-| 4 |13020240197 |A Aqila Nurul Khalida | @aaqilanurulkhalida | |
-| 5 |13020240198 |Nur Annisa Az Zahra Diponegoro | @NurAnnisaAzZahraDiponegoro | |
+| 1 |13020240168 |Dea Mcreal Gonzales | @Deamcrealgonzales | A1 dan B1 |
+| 2 |13020240191 |Siti Nur Alfiyyah | @SitiNurAlfiyyah | A5 dan B5 |
+| 3 |13020240192 |Nabila Zahrani Azalea Arief | @NabilaZahraniAzaleaArief | A4 dan B4 |
+| 4 |13020240197 |A Aqila Nurul Khalida | @aaqilanurulkhalida | A3 dan B3 |
+| 5 |13020240198 |Nur Annisa Az Zahra Diponegoro | @NurAnnisaAzZahraDiponegoro | A2 dan B2 |
 
 ## Peta berkas dan penanggung jawab
 
@@ -26,15 +26,15 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
 | BAB I | laporan/BAB1-pendahuluan.md | | Belum |
-| A1 | laporan/A1-konteks-arsitektur.md | | Belum |
-| A2 | laporan/A2-stakeholder.md | | Belum |
-| A3 | laporan/A3-batasan.md | | Belum |
-| A4 | laporan/A4-asr.md | | Belum |
-| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | | Belum |
-| B1 | laporan/B1-karakteristik.md | | Belum |
-| B2 | laporan/B2-atribut-terukur.md | | Belum |
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ | | Belum |
-| B4 | laporan/B4-iso-25010.md | | Belum |
-| B5 | laporan/B5-trade-off.md | | Belum |
+| A1 | laporan/A1-konteks-arsitektur.md | Dea Mcreal Gonzales | Belum |
+| A2 | laporan/A2-stakeholder.md | Nur Annisa Az Zahra Diponegoro | Belum |
+| A3 | laporan/A3-batasan.md | A Aqila Nurul Khalida | Belum |
+| A4 | laporan/A4-asr.md | Nabila Zahrani Azalea Arief | Belum |
+| A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Siti Nur Alfiyyah | Belum |
+| B1 | laporan/B1-karakteristik.md | Dea Mcreal Gonzales | Belum |
+| B2 | laporan/B2-atribut-terukur.md | Nur Annisa Az Zahra Diponegoro | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | A Aqila Nurul Khalida | Belum |
+| B4 | laporan/B4-iso-25010.md | Nabila Zahrani Azalea Arief | Belum |
+| B5 | laporan/B5-trade-off.md | Siti Nur Alfiyyah | Belum |
 | BAB IV | laporan/BAB4-penutup.md | | Belum |
 | Pustaka | laporan/daftar-pustaka.md | | Belum |
