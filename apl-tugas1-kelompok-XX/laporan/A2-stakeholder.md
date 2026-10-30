@@ -18,7 +18,7 @@ Stakeholder adalah pihak-pihak yang terlibat atau memiliki kepentingan terhadap 
 
 ## Peta Power/Interest (Mendelow)
 
-![Peta power/interest stakeholder layanan kelas SPADA UMI-Kalam](A2-stakeholder-diagram.drawio.png)
+![Peta power/interest stakeholder layanan kelas SPADA UMI-Kalam](/laporan/A2-stakeholder-diagram.drawio.png)
 
 ## Strategi Tiap Kuadran
 
