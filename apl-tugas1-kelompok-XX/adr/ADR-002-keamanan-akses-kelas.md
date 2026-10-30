@@ -1,8 +1,8 @@
 # ADR-002: Penerapan Role-Based Access Control dan Pencatatan Akses Kelas
 
-- **Status:** Diusulkan
+- **Status:** Diterima
 - **Tanggal:** 30-10-2026
-- **Pengambil keputusan:** Siti Nur Alfiyyah (pengusul, menunggu persetujuan kelompok)
+- **Pengambil keputusan:** Siti Nur Alfiyyah 
 
 ## Context
 
