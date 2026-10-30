@@ -27,7 +27,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 |---|---|---|---|
 | BAB I | laporan/BAB1-pendahuluan.md | Dea Mcreal Gonzales | Selesai |
 | A1 | laporan/A1-konteks-arsitektur.md | Dea Mcreal Gonzales | Selesai |
-| A2 | laporan/A2-stakeholder.md | Nur Annisa Az Zahra Diponegoro | Belum |
+| A2 | laporan/A2-stakeholder.md | Nur Annisa Az Zahra Diponegoro | Selesai |
 | A3 | laporan/A3-batasan.md | A Aqila Nurul Khalida | Selesai |
 | A4 | laporan/A4-asr.md | Nabila Zahrani Azalea Arief | Selesai |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Siti Nur Alfiyyah | Selesai |
