@@ -47,5 +47,4 @@ quadrantChart
 | Keep informed | Mahasiswa; admin prodi dan helpdesk | Beri informasi dan kumpulkan umpan balik | Umumkan jadwal pemeliharaan lebih dulu, beri panduan singkat, sediakan formulir keluhan atau survei |
 | Monitor | Penyedia infrastruktur pihak ketiga | Pantau seperlunya | Cek kapasitas dan kontrak secara berkala |
 
-*Catatan: penempatan power/interest bersifat rekomendasi berdasarkan pengalaman memakai layanan, informasi publik UMI, dan wawancara singkat (R1, R2, dst.).*
 
