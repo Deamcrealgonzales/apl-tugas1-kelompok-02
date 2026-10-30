@@ -1,4 +1,3 @@
-
 # ADR-002: Penerapan Role-Based Access Control dan Pencatatan Akses Kelas
 
 - **Status:** Diusulkan
