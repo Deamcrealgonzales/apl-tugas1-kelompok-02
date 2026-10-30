@@ -1,3 +1,4 @@
+Penanggung jawab: [Nur Annisa Az Zahra Diponegoro]
 # B2. Atribut Kualitas yang Terukur
 
 Layanan yang dianalisis: **layanan kelas di SPADA UMI-Kalam** (pendaftaran kelas, unggah materi, akses materi, dan pengumuman).
