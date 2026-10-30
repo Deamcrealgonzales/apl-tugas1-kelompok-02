@@ -37,4 +37,4 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | B4 | laporan/B4-iso-25010.md | Nabila Zahrani Azalea Arief | Selesai |
 | B5 | laporan/B5-trade-off.md | Siti Nur Alfiyyah | Selesai |
 | BAB IV | laporan/BAB4-penutup.md | | Belum |
-| Pustaka | laporan/daftar-pustaka.md | | Belum |
+| Pustaka | laporan/daftar-pustaka.md | Dea Mcreal Gonzales | Selesai |
