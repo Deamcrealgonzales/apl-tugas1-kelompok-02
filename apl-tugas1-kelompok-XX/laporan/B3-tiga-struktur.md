@@ -8,7 +8,6 @@ Struktur modul menggambarkan pembagian kode program ke dalam beberapa modul berd
 
 ![Diagram Struktur Modul](../diagram/B3-Strukturmodul.drawio.png)
 
-[File sumber Draw.io](../diagram/B3-Strukturmodul.drawio)
 
 ---
 
@@ -18,7 +17,6 @@ Struktur komponen dan konektor menggambarkan komponen yang berjalan ketika layan
 
 ![Diagram Struktur C&C](../diagram/B3-StrukturC&C.drawio.png)
 
-[File sumber Draw.io](../diagram/B3-StrukturC&C.drawio)
 
 ---
 
@@ -28,4 +26,3 @@ Struktur alokasi menggambarkan penempatan komponen perangkat lunak pada lingkung
 
 ![Diagram Struktur Alokasi](../diagram/B3-Struktur-alokasi.drawio.png)
 
-[File sumber Draw.io](../diagram/B3-Struktur-alokasi.drawio)
