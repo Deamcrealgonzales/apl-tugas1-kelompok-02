@@ -1,6 +1,6 @@
 # B1. Identifikasi dan Klasifikasi Karakteristik Arsitektur
 
-**Penanggung jawab:** Dea Mcreal Gonzales
+Penanggung jawab: [Dea Mcreal Gonzales]
 
 ## 1. Kandidat Karakteristik Arsitektur
 
@@ -40,3 +40,5 @@ Tiga karakteristik yang dipilih kemudian diuji berdasarkan tiga kriteria karakte
 | 3 | Penting terhadap keberhasilan aplikasi. | Ya | Ya | Ya |
 
 Berdasarkan hasil pengujian, Performance, Availability, dan Security memenuhi ketiga kriteria karakteristik arsitektur. Ketiganya bukan sekadar fungsi utama sistem, tetapi merupakan kebutuhan kualitas yang memengaruhi rancangan komponen, mekanisme pengelolaan layanan, dan keberhasilan operasional SPADA UMI-Kalam.
+
+Pemilihan ketiga karakteristik ini juga menjadi dasar untuk analisis trade-off pada bagian B5.
