@@ -1,4 +1,3 @@
-
 # ADR-001: Penerapan Caching dan Load Balancing pada Pendaftaran Kelas
 
 - **Status:** Diusulkan
