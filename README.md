@@ -33,7 +33,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr/ | Siti Nur Alfiyyah | Selesai |
 | B1 | laporan/B1-karakteristik.md | Dea Mcreal Gonzales | Selesai |
 | B2 | laporan/B2-atribut-terukur.md | Nur Annisa Az Zahra Diponegoro | Selesai |
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ | A Aqila Nurul Khalida | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | A Aqila Nurul Khalida | Selesai |
 | B4 | laporan/B4-iso-25010.md | Nabila Zahrani Azalea Arief | Selesai |
 | B5 | laporan/B5-trade-off.md | Siti Nur Alfiyyah | Selesai |
 | BAB IV | laporan/BAB4-penutup.md | | Belum |
