@@ -36,7 +36,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | B3 | laporan/B3-tiga-struktur.md dan diagram/ | A Aqila Nurul Khalida | Selesai |
 | B4 | laporan/B4-iso-25010.md | Nabila Zahrani Azalea Arief | Selesai |
 | B5 | laporan/B5-trade-off.md | Siti Nur Alfiyyah | Selesai |
-| BAB IV | laporan/BAB4-penutup.md | | Belum |
+| BAB IV | laporan/BAB4-penutup.md | Siti Nur Alfiyyah | Selesai |
 | Pustaka | laporan/daftar-pustaka.md | Dea Mcreal Gonzales | Selesai |
 
 ## Laporan PDF terakhir
