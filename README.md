@@ -25,7 +25,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
-| BAB I | laporan/BAB1-pendahuluan.md | | Belum |
+| BAB I | laporan/BAB1-pendahuluan.md | Dea Mcreal Gonzales | Belum |
 | A1 | laporan/A1-konteks-arsitektur.md | Dea Mcreal Gonzales | Belum |
 | A2 | laporan/A2-stakeholder.md | Nur Annisa Az Zahra Diponegoro | Belum |
 | A3 | laporan/A3-batasan.md | A Aqila Nurul Khalida | Belum |
