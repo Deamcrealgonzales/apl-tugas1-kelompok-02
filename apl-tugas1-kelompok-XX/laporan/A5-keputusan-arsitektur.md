@@ -6,7 +6,7 @@ Bagian ini menjelaskan keputusan arsitektur untuk layanan kelas SPADA UMI-Kalam 
 
 ## 1. Ringkasan ADR-001: Penerapan Caching dan Load Balancing pada Pendaftaran Kelas
 
-- **Status:** Diusulkan
+- **Status:** Diterima
 - **ASR terkait:** ASR-1 (Kinerja dan Kapasitas)
 - **ADR lengkap:** [ADR-001-kinerja-pendaftaran-kelas.md](../adr/ADR-001-kinerja-pendaftaran-kelas.md)
 
