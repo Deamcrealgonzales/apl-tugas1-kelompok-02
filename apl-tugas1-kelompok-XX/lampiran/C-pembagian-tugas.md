@@ -6,8 +6,7 @@ Cara mengambil tautan: buka tab **Commits**, klik commit yang dimaksud, salin al
 
 | No | Stambuk | Nama | Kode yang dikerjakan | Uraian pekerjaan individu | Bukti kontribusi (tautan) | Keterangan (Selesai / Tunda / Gagal) |
 |---|---|---|---|---|---|---|
-| Ct. | 13020240000 | (Contoh) Ani | A2, A3 | Menyusun register 6 stakeholder dan peta power/interest; menulis batasan teknologi, bisnis, dan operasional | Riwayat berkas laporan/A2-stakeholder.md (tautan); commit "[A3] tambah batasan" (tautan) | Selesai |
-| 1 | | | | | | |
+| 1 | 13020240168 | Dea Mcreal Gonzales | BAB 1, A1, B1 | Menganalisis empat konteks arsitektur; mengidentifikasi dan mengklasifikasi Karakteristik Arsitektur; Menyusun Pendahuluan | Riwayat berkas laporan/BAB 1 Pendahuluan.md (ed727513d05f4abfac88fdb9686214883060e014); Riwayat berkas laporan/A1-konteks-arsitektur.md (3e089bba64b9fa304966ade90a6e4f825ac4d792); Riwayat berkas laporan/B1-karakteristik.md (3ec511cf7582798e9caa41e2164a5e497731ece6) | Selesai |
 | 2 | 13020240191 | Siti Nur Alfiyyah | A5, B5, BAB4 | Menyusun keputusan arsitektur dan trade-off; menyusun BAB 4 penutup | Riwayat berkas laporan/A5-keputusan-arsitektur.md (f671d7240134b7867b1b7d24c3d2604d0a59f4f2); | |
 | 3 | | | | | | |
 | 4 | | | | | | |
