@@ -25,6 +25,6 @@
 
 - **A3:** Sistem perlu mendukung penggunaan melalui komputer maupun ponsel serta menerapkan pembagian hak akses antara dosen dan mahasiswa. Temuan ini mendukung kebutuhan antarmuka responsif dan pengaturan hak akses pengguna.
 
-- **B3.1:** Kebutuhan layanan yang terdiri atas tampilan pengumuman, pendaftaran kelas, dan materi mendukung pembagian modul berdasarkan fungsi dan tanggung jawabnya, yaitu lapisan tampilan, logika aplikasi, modul pendukung, dan akses data.
+- **B3:** Kebutuhan layanan yang terdiri atas tampilan pengumuman, pendaftaran kelas, dan materi mendukung pembagian modul berdasarkan fungsi dan tanggung jawabnya, yaitu lapisan tampilan, logika aplikasi, modul pendukung, dan akses data.
 
-- **B3.2:** Kebutuhan konfirmasi pendaftaran serta pemberitahuan materi dan pengumuman baru menjadi masukan dalam perancangan komunikasi antarkomponen, khususnya server aplikasi, antrean notifikasi, worker notifikasi, dan gateway email atau push.
+- **B3:** Kebutuhan konfirmasi pendaftaran serta pemberitahuan materi dan pengumuman baru menjadi masukan dalam perancangan komunikasi antarkomponen, khususnya server aplikasi, antrean notifikasi, worker notifikasi, dan gateway email atau push.
