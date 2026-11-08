@@ -18,11 +18,7 @@
 ## Temuan yang dipakai pada laporan
 
 - **A2:** Mahasiswa merupakan pengguna akhir yang membutuhkan layanan pendaftaran kelas, akses dan unduhan materi, serta penerimaan pengumuman tepat waktu. Temuan ini mendukung penempatan mahasiswa sebagai stakeholder dengan tingkat interest tinggi dan strategi keep informed.
-
 - **A2:** Mahasiswa membutuhkan informasi mengenai jadwal pemeliharaan, panduan penggunaan, serta saluran untuk menyampaikan keluhan atau saran. Temuan ini mendukung strategi komunikasi dengan stakeholder melalui pemberian informasi dan pengumpulan umpan balik.
-
 - **B2:** Kecepatan akses menjadi kebutuhan penting, terutama ketika banyak mahasiswa melakukan pendaftaran kelas secara bersamaan. Hal ini mendukung target pengujian 3.000 pengguna secara bersamaan dengan 95% halaman daftar kelas dan proses pendaftaran selesai dalam waktu kurang dari 3 detik.
-
 - **B2:** Ketersediaan layanan akses materi dan pengumuman perlu dijaga selama jam perkuliahan. Hal ini mendukung target ketersediaan minimal 99,5% pada pukul 06.00–23.00 WITA dan waktu pemulihan kurang dari 30 menit apabila terjadi gangguan.
-
 - **B2:** Materi perkuliahan perlu dilindungi dari akses pengguna yang tidak berwenang. Hal ini mendukung target agar 100% percobaan akses tanpa hak ditolak dan dicatat dalam log, melalui pengujian terhadap pengguna yang belum login dan mahasiswa yang bukan peserta kelas.
