@@ -1,9 +1,9 @@
 # Ringkasan Wawancara [03]
 
-- **Tanggal:** [29-10-2026]
-- **Responden (peran saja):** [mahasiswa semester 5]
-- **Pewawancara:** [Dea Mcreal Gonzales]
-- **Layanan yang dibahas:** [Layanan kelas SPADA UMI-Kalam]
+- **Tanggal:** 29-10-2026
+- **Responden (peran saja):** Mahasiswa semester 5
+- **Pewawancara:** Dea Mcreal Gonzales
+- **Layanan yang dibahas:** Layanan kelas SPADA UMI-Kalam
 
 ## Pertanyaan dan ringkasan jawaban
 | Pertanyaan | Ringkasan jawaban |
