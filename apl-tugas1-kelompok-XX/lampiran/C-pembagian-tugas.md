@@ -8,7 +8,7 @@ Cara mengambil tautan: buka tab **Commits**, klik commit yang dimaksud, salin al
 |---|---|---|---|---|---|---|
 | Ct. | 13020240000 | (Contoh) Ani | A2, A3 | Menyusun register 6 stakeholder dan peta power/interest; menulis batasan teknologi, bisnis, dan operasional | Riwayat berkas laporan/A2-stakeholder.md (tautan); commit "[A3] tambah batasan" (tautan) | Selesai |
 | 1 | | | | | | |
-| 2 | 13020240191 | Siti Nur Alfiyyah | A5, B5, BAB4 | Menyusun keputusan arsitektur dan trade-off; menyusun BAB 4 penutup | | |
+| 2 | 13020240191 | Siti Nur Alfiyyah | A5, B5, BAB4 | Menyusun keputusan arsitektur dan trade-off; menyusun BAB 4 penutup | 0c08968fd0bc937eafdc92d35fb8120441b90086 | |
 | 3 | | | | | | |
 | 4 | | | | | | |
 | 5 | | | | | | |
